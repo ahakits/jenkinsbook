@@ -27,10 +27,10 @@ public class SampleAction {
 
     /**
      * Constructor of SampleAction.
-     * @param firstName first name of the user
-     * @param lastName last name of the user
+     * @param frstName first name of the user
+     * @param lstName last name of the user
      */
-    public SampleAction(final String firstName, final String lastName) {
+    public SampleAction(final String frstName, final String lstName) {
         this.firstName = firstName;
         this.lastName = lastName;
     }
